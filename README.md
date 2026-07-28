@@ -282,3 +282,5 @@ tableau data-visualization business-intelligence netflix tableau-dashboard analy
 ## If you found this project useful
 
 If you liked this project, consider giving the repository a star. Feedback and suggestions are always welcome.
+
+![DASHBOARD PREVIEW](https://github.com/dee8864/Netflix-Data-Visualizing/blob/main/%23VISUALS%20Netflix%20Data%20Visualizing.png)
