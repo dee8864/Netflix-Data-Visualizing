@@ -265,9 +265,9 @@ Combining multiple worksheets into a single dashboard while maintaining readabil
 
 MBA (Business Analytics)
 
-[LinkedIn](https://www.linkedin.com/in/deepanshu-sharma-8864ds/)*
+[LinkedIn](https://www.linkedin.com/in/deepanshu-sharma-8864ds/)
 
-[GitHub](https://github.com/dee8864)*
+[GitHub](https://github.com/dee8864)
 
 ---
 
