@@ -1,6 +1,8 @@
 # Netflix-Data-Visualizing
 
 # <p align="center">![Pic](https://i.ibb.co/Q81WwRN/92399716.jpg)</p>
+# <p align="center">![Pic](https://ibb.co/MkkHkJCs)</p>
+
 
 Project Overview
 This project focuses on a comprehensive analysis of the Netflix content library, encompassing over 6,000 titles. Using Tableau, I transformed raw metadata into a strategic business intelligence tool that offers a dual-layered perspective: a Macro View of global streaming trends and a Micro View for individual title characteristics
