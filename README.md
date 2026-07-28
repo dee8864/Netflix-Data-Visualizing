@@ -1,9 +1,6 @@
-# Netflix-Data-Visualizing
+# <p align="center">Netflix-Data-Visualizing/<p>
 
-# <p align="center">![Pic](https://i.ibb.co/Q81WwRN/92399716.jpg)</p>
-
-# <p align="center">![Pic](<a href="https://imgbb.com/"><img src="https://i.ibb.co/hFFNFTmy/netflix.png" alt="netflix" border="0"></a>)</p>
-
+# <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/hFFNFTmy/netflix.png" alt="netflix" border="0"></a></p>
 
 
 Project Overview
