@@ -3,27 +3,6 @@
 # <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/hFFNFTmy/netflix.png" alt="netflix" border="0"></a></p>
 
 
-# Project Overview
-This project focuses on a comprehensive analysis of the Netflix content library, encompassing over 6,000 titles. Using Tableau, I transformed raw metadata into a strategic business intelligence tool that offers a dual-layered perspective: a Macro View of global streaming trends and a Micro View for individual title characteristics
-
-
-# Business Problem
-With the streaming landscape becoming increasingly competitive, stakeholders need to understand content distribution patterns and growth trajectories to inform licensing and production strategies. The challenge was to create a unified interface that balances high-level executive summaries (growth by year, regional dominance) with granular details (individual title descriptions and ratings) without overwhelming the end-user
-
-
-# Project Objectives
-Analyze Growth: Track the evolution of Movies vs. TV Shows added from 2008 to 2020
-.
-Geospatial Mapping: Identify primary and emerging content hubs across the globe
-.
-Genre & Rating Breakdown: Determine which categories and content ratings dominate the platform
-.
-Interactive Discovery: Enable users to deep-dive into specific titles via dynamic filtering
-.
-
---xx--
-# Netflix Global Content Analysis Dashboard | Tableau
-
 A comprehensive Tableau dashboard built to analyze the Netflix content library and uncover trends in content growth, genre distribution, country-wise availability, ratings, and title-level insights.
 
 This project transforms a raw Netflix dataset into an interactive business intelligence dashboard that enables users to explore both high-level trends and detailed information about individual titles.
@@ -255,27 +234,6 @@ Combining multiple worksheets into a single dashboard while maintaining readabil
 
 ---
 
-# Project Structure
-
-```
-Netflix-Tableau-Dashboard
-│
-├── Data
-│   └── netflix_titles.csv
-│
-├── Dashboard
-│   └── Netflix_Dashboard.twbx
-│
-├── Screenshots
-│   ├── Dashboard.png
-│   ├── Analysis_View.png
-│   └── Title_Details.png
-│
-└── README.md
-```
-
----
-
 # Skills Demonstrated
 
 - Data Cleaning
@@ -307,9 +265,9 @@ Netflix-Tableau-Dashboard
 
 MBA (Business Analytics)
 
-**LinkedIn:** *(Add your LinkedIn URL)*
+**LinkedIn:** *(https://www.linkedin.com/in/deepanshu-sharma-8864ds/)*
 
-**GitHub:** *(Add your GitHub Profile URL)*
+**GitHub:** *(https://github.com/dee8864)*
 
 ---
 
