@@ -1,4 +1,4 @@
-# <p align="center">Netflix-Data-Visualizing/<p>
+# <p align="center">Netflix-Data-Visualizing<p>
 
 # <p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/hFFNFTmy/netflix.png" alt="netflix" border="0"></a></p>
 
